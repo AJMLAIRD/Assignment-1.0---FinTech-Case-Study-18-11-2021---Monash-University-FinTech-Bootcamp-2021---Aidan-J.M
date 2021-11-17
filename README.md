@@ -3,6 +3,8 @@
 
 # CoinSpot, Australia's Premier Crypto Exchange
 
+
+
 ## Overview and Origin
 
 CoinSpot is an Australian Crypto Exchange that is owned and operated by Casey Block Services PTY LTD. The company was founded in 2013 in Melbourne by Russel Wilson, who is quite active in the cryptosphere and shares many thoughts and opinions on why Australians should get involved with cryptocurrency, blockchain and decentralised finance[^1]
