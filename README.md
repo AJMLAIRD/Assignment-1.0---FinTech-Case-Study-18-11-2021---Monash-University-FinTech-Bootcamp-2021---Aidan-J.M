@@ -17,7 +17,8 @@ One company that continues to dominate in this area is CoinSpot, which is an Aus
 CoinSpot was founded with the mission of helping Australians of any background to have easy access to the world of cryptocurrencies and blockchain. Being one of the earliest exchanges, CoinSpot has managed to help millions of Australians purchase cryptocurrencies and is considered to be a safe, verified and trusted platform. Coinspot is a member of Blockchain Australia and is registered with AUSTRAC[^4].
 [^4]: Australian FinTech. (2017, March 25). CoinSpot. Retrieved November 15, 2021, from https://australianfintech.com.au/company/coinspot/
 
-The company charges deposit, withdrawal and trading fees which are relatively low. There are also spread fees, which is the difference between the buy and sell rate of any particular coin or token. 
+The company charges deposit, withdrawal and trading fees which are relatively low. There are also spread fees, which is the difference between the buy and sell rate of any particular coin or token[^5]. 
+[^5]: Glennon, J. (2021, November 2). Why is CoinSpot so Expensive? CryptoRanking. Retrieved November 15, 2021, from https://www.cryptoranking.com.au/why-is-coinspot-so-expensive
 
 
 ## What is CoinSpot aiming to solve? 
