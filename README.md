@@ -40,8 +40,7 @@ With the conception and creation of the Ethereum network came tokens and the abi
 
 * What are the other major companies in this domain?
 
-## Results
-
+## CoinSpot's impact in Australia
 * What has been the business impact of this company so far?
 
 CoinSpots impact on the crypto industry in Australia is unmatched. The company has successfully created a platform that is regulated, safe and secure for the Australian investor. 
@@ -52,7 +51,7 @@ CoinSpots impact on the crypto industry in Australia is unmatched. The company h
 
 * How is your company performing relative to competitors in the same domain?
 
-## Recommendations
+## Advise for CoinSpot 
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
