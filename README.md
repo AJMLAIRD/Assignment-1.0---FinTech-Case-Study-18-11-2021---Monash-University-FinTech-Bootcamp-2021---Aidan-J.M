@@ -23,9 +23,9 @@ The company charges deposit, withdrawal and trading fees which are relatively lo
 
 ## What is CoinSpot aiming to solve? 
 
-As stated before, CoinSpot's mission is to help Australians obtain quick access to digital currencies. As crypto continues to become adopted and thought of as a legitimate asset, more Australians are looking for ways to obtain and invest in this sphere. 
+As crypto continues to become adopted and thought of as a legitimate asset, more Australians are looking for ways to obtain and invest in this sphere. CoinSpot aims to be the forefront of accessible and safe crypto exchanges. 
 
-CoinSpot aims to be the forefront of accessible and safe crypto exchanges. One major issue within the cryptosphere is the danger of leaving one's digital assets in an exchange. Hackers are prevelant and it is not uncommon to hear about investor's crypto assests being stolen. To combat this, CoinSpot offers its users to create vaults, where they can have their cryptocurrencies stored offline as part of a custodial service plan (similar to storing cryptocurrencies in a personal hardware wallet). 
+One major issue within the cryptosphere is the danger of leaving one's digital assets in an exchange. Hackers are prevelant and it is not uncommon to hear about investor's crypto assests being stolen. To combat this, CoinSpot offers its users to create vaults, where they can have their cryptocurrencies stored offline as part of a custodial service plan (similar to storing cryptocurrencies in a personal hardware wallet). 
 
 Another significant issue with cryptocurrency exchanges is verification. Most centralised exchanges require users to verify their identity and will be limited to certain investing caps until the verification is complete. Wait times for popular platforms such as Binance can take over 10 days in some cases. However, CoinSpot prides itself by offering users with instant verification and increasing fiat deposit caps. 
 
