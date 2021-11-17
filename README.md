@@ -1,14 +1,13 @@
 # FinTech-Case-Study---Bootcamp
 Assignment 1: Intro to Finance
 
-# CoinSpot.com.au
-## Australia's Premier Crypto Exchange
+# CoinSpot, Australia's Premier Crypto Exchange
 
 ## Overview and Origin
 
-* Name of company
+CoinSpot is an Australian Crypto Exchange that is owned and operated by Casey Block Services PTY LTD. The company was founded in 2013 in Melbourne by Russel Wilson, who is quite active in the cryptosphere and shares many thoughts and opinions on why Australians should get involved with cryptocurrency, blockchain and decentralised finance[^1]
 
-The name of the company is CoinSpot and is owned and operated by Casey Block Services PTY LTD
+[^1]
 
 * When was the company incorporated?
 
