@@ -1,45 +1,29 @@
-# FinTech-Case-Study---Bootcamp
-Assignment 1: Intro to Finance
+
+# FinTech Case Study #1 18/11/2021
 
 # CoinSpot, Australia's Premier Crypto Exchange
 
 ## Overview and Origin
 
 CoinSpot is an Australian Crypto Exchange that is owned and operated by Casey Block Services PTY LTD. The company was founded in 2013 in Melbourne by Russel Wilson, who is quite active in the cryptosphere and shares many thoughts and opinions on why Australians should get involved with cryptocurrency, blockchain and decentralised finance[^1]
+[^1]: Boyd, A. (2021, November 3). CoinSpot review. Finty.Com. Retrieved November 15, 2021, from https://finty.com/au/crypto/coinspot-review/
 
-[^1]
+CoinSpot was founded with the mission of helping Australians of any background to have easy access to the world of cryptocurrencies and blockchain. Being one of the earliest exchanges, CoinSpot has managed to help millions of Australians purchase cryptocurrencies and is considered to be a safe, verified and trusted platform. Coinspot is a member of Blockchain Australia and is registered with AUSTRAC. 
 
-* When was the company incorporated?
-
-CoinSpot was founded in Australia in 2013. 
-
-* Who are the founders of the company?
-
-The founded of CoinSpot is Russel Willson
+The company charges deposit, withdrawal and trading fees which are relatively low. There are also spread fees, which is the difference between the buy and sell rate of any particular coin or token. 
 
 
-* How did the idea for the company (or project) come about?
+## What is CoinSpot aiming to solve? 
 
-CoinSpot was founded with the mission of helping Australians of any background to have easy access to the world of cryptocurrencies and blockchain. 
-
-* How is the company funded? How much funding have they received?
-
-
-
-
-## Business Activities:
-
-* What specific financial problem is the company or project trying to solve?
-
-
-
-
-
-
+As stated before, CoinSpot's mission is to help Australians obtain quick access to digital currencies. As crypto continues to become adopted and thought of as a legitimate asset, more Australians are looking for ways to obtain and invest in this sphere. CoinSpot aims to be the forefront of accessible and safe crypto exchanges. One major issue within the cryptosphere is the danger of leaving one's digital assets in an exchange. Hackers are prevelant and it is not uncommon to hear about investor's crypto assests being stolen. To combat this, CoinSpot offers its users to create vaults, where they can have their cryptocurrencies stored offline as part of a custodial service plan (similar to storing cryptocurrencies in a personal hardware wallet). 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
+Acording to some of the latest statistics, almost a quater of Australians invest and hold cryptocurrencies, particularily bitcoin. A significant ammount of these investors primarily use CoinSpot. 
+
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
+
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
