@@ -32,11 +32,11 @@ Acording to some of the latest statistics, almost a quater of Australians invest
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-## Landscape:
+## How Crypto has changed
 
-* What domain of the financial industry is the company in?
+One of the major changes to cryptocurrency in the past decade is surprisingly the phenomenon of Bitcoin and other first generation cryptocurrencies being considered outdated. Bitcoin's original purpose has shifted from being a means to exchange to being a store of value. This is primarily due to the value of Bitcoin accelerating over 120 million percent throughout the last 10 years. 
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+With the conception and creation of the Ethereum network came tokens and the ability for programmers to create their own cryptocurrency projects. Decentalised apps (dapps) and non-fungible tokens (NFTs) are now becoming more widespread, providing access to decentralised wealth creation opportunities. 
 
 * What are the other major companies in this domain?
 
@@ -44,13 +44,22 @@ Acording to some of the latest statistics, almost a quater of Australians invest
 
 * What has been the business impact of this company so far?
 
+CoinSpots impact on the crypto industry in Australia is unmatched. The company has successfully created a platform that is regulated, safe and secure for the Australian investor. 
+
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+
 
 * How is your company performing relative to competitors in the same domain?
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+If I was to join CoinSpot as an advisor. I would suggest they offer crypto staking and interest accounts so that clients can earn more money and rewards by holding and investing in their currencies for a long period of time.
+
+
+
 
 * Why do you think that offering this product or service would benefit the company?
 
