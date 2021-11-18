@@ -37,34 +37,19 @@ One major product that CoinSpot offers is crypto bundles, where users can easily
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-Another great feature of CoinSpot is the ability to swap cryptocurrenices. 
-
-
+Another great feature of CoinSpot is the ability to swap cryptocurrenices. Peer-to-peer blockchain swapping technology or "atomic swaps' is common in decentralised exchanges such as Uniswap as well as centralised exchanges such as CoinSpot and Coinbase. Atomic swaps gives users the ability to trade any token for another token. On CoinSpot, traders can swap Bitcoin for Ethereum or any of the 300+ listed coins and tokens and vice versa. The technology uses hash functions, which are intracate mathematical encryptions that ensures that the exchange of tokens is confirmed on the blockchain within a certain timeframe and successfully transfered. 
 
 ## How Crypto has changed
 
 One of the major changes to cryptocurrency in the past decade is surprisingly the phenomenon of Bitcoin and other first generation cryptocurrencies being considered outdated. Bitcoin's original purpose has shifted from being a means to exchange to being a store of value. This is primarily due to the value of Bitcoin accelerating over 120 million percent throughout the last 10 years. It is also due to Bitcoin using the highly criticized proof-of-work protocal to validate transactions as most modern cryptocurrencies use proof-of-stake. 
 
-With the conception and creation of the Ethereum network came tokens and the ability for programmers to create their own cryptocurrency projects. Decentalised apps (dapps) and non-fungible tokens (NFTs) are now becoming more widespread, providing access to decentralised wealth creation opportunities. 
-
-* What are the other major companies in this domain?
-
-## CoinSpot's impact in Australia
-* What has been the business impact of this company so far?
+With the conception and creation of the Ethereum network came tokens and the ability for programmers to create their own cryptocurrency projects. Decentalised apps (dapps) and non-fungible tokens (NFTs) are now becoming more widespread, providing access to decentralised wealth creation opportunities. Major financial institutions are now opening their doors to crypto and offering their clients crypto and blockchain products and services. One such example in Australia is Commonwealth Bank who have recently announced that they will offer Commsec investors to buy and hold cryptocurrencies. 
 
 CoinSpots impact on the crypto industry in Australia is unmatched. The company has successfully created a platform that is regulated, safe and secure for the Australian investor. 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+## Recommendations for CoinSpot
 
-
-
-* How is your company performing relative to competitors in the same domain?
-
-## Advise for CoinSpot 
-
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-If I was to join CoinSpot as an advisor. I would suggest they offer crypto staking and interest accounts so that clients can earn more money and rewards by holding and investing in their currencies for a long period of time.
+If I was to join CoinSpot as an advisor. I would suggest they offer crypto staking so that clients can earn more money and rewards by holding and investing in their currencies for a long period of time.
 
 Crypto staking is the process of comitting one's assets to a proof-of-stake blockchain and essentially validating new transactions. The blockchain then rewards these validators with the currency itself. This is far more effective than the proof-of-work system used by older currencies such as Bitcoin and Litecoin which require miners using large amounts of energy to validate new transactions on the blockchain. Ethereum was built using proof-of-work but will transition to proof-of-stake when Ethereum 2.0 is released in 2022. 
 
@@ -72,13 +57,7 @@ Popular international crypto exchanges such as Binance, Coinbase, Kraken and Kuc
 
 The technology required for staking is not dependent on the exchange, but on how the token or coin is programmed, so it would not be a difficult process to employ staking within the exchange. 
 
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
-
+Another service that CoinSpot should provide are high-interest crypto accounts. Although it is a relatively recent concept, it is nontheless highy lucrative for long-term holders. Companies such as BlockFi, Coinspot.com and WireX offer interest accounts for currencies such as Bitcoin, Litecoin, Ethereum as well as stable coins such as DAI. As more Australians start to learn and add cryptocurrencies to their portfolios, the concept of earning passive income through interest will entice and draw new customers.  
 
 
 
