@@ -9,7 +9,6 @@
 Australia is quickly becoming a nation of crypto-ethusiasts, as more people from all walks of life and levels of finance continue to buy assets such as Bitcoin, Litecoin, Cardano, as well as tokens on various blockchains such as Ethereum or Binance[^1]. The world of cryptocurrency or 'cryptosphere' is a significant domain in FinTech and will continue to be the forefront of the current financial revolution that is taking place[^2].
 
 
-
 One company that continues to dominate in this area is CoinSpot, which is an Australian Crypto Exchange that is owned and operated by Casey Block Services PTY LTD. The company was founded in 2013 in Melbourne by Russel Wilson, who is quite active in the cryptosphere and shares many thoughts and opinions on why Australians should get involved with cryptocurrency, blockchain and decentralised finance[^3]
 
 
@@ -18,6 +17,19 @@ CoinSpot was founded with the mission of helping Australians of any background t
 
 The company charges deposit, withdrawal and trading fees which are relatively low. There are also spread fees, which is the difference between the buy and sell rate of any particular coin or token[^5]. 
 
+#### CoinSpot fees explained
+
+* Market orders: 0.1%
+* Instant buy, sell and swap: 1.0%
+* Variable spread fees
+
+#### CoinSpot enables Australian clients to deposit AUD into their account via the following methods and fees: 
+
+* POLi: free
+* PayID: free
+* Direct deposit: free
+* Bpay: 0.9%
+* Cash: 2.5% 
 
 
 ## What is CoinSpot aiming to solve? 
