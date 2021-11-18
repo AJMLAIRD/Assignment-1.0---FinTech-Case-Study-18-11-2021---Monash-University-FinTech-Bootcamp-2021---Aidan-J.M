@@ -85,8 +85,8 @@ Another service that CoinSpot should provide are high-interest crypto accounts. 
 [^12]: Rose, D. (2021, September 21). Roughly 1 in 10 Aussie adults have a Coinspot account. Stockhead. Retrieved November 15, 2021, from https://stockhead.com.au/cryptocurrency/roughly-1-in-10-aussie-adults-have-a-coinspot-account/
 [^13]: Chan, D. (2021, September 12). CoinSpot vs Binance | Which is better in 2021. Marketplace Fairness. Retrieved November 15, 2021, from https://www.marketplacefairness.org/au/cryptocurrency/coinspot-vs-binance/
 [^14]: Minted Millenials. (2021, November 14). Coinspot Review. Retrieved November 15, 2021, from https://mintedmillennials.com/coinspot-review/#BundlesBundles are predetermined groups of cryptocurrencies, with preset allocations to each coin that you can select to invest in. If you selected the top 3 market cap bundle it contains Bitcoin, Ethereum and Binance. All at pretty much equal weight of 33.33%
-[^15]:
-[^16]:
+[^15]: Sergeenkov, A. (2021, August 20). A Beginner’s Guide to Atomic Swaps. CoinDesk. Retrieved November 15, 2021, from https://www.coindesk.com/tech/2021/08/20/a-beginners-guide-to-atomic-swaps/“Atomic” is a terminology used to connote processes that would either finalize or would not initiate at all. In other words, an atomic swap comes with functionalities that ensure that two sides of trade fulfill all predefined conditions before the trade can be completed. This is made possible by incorporating smart contracts, which are self-initiating programs that enforce the conditions governing the success of a transaction. 
+[^16]: Ibid.
 [^17]:
 [^18]:
 [^19]:
