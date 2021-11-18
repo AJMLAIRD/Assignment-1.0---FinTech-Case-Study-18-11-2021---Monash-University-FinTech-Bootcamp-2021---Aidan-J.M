@@ -55,7 +55,7 @@ Popular international crypto exchanges such as Binance, Coinbase, Kraken and Kuc
 
 The technology required for staking is not dependent on the exchange, but on how the token or coin is programmed, so it would not be a difficult process to employ staking within the exchange. 
 
-Another service that CoinSpot should provide are high-interest crypto accounts. Although it is a relatively recent concept, it is nontheless highy lucrative for long-term holders. Companies such as BlockFi, Coinspot.com and WireX offer interest accounts for currencies such as Bitcoin, Litecoin, Ethereum as well as stable coins such as DAI. As more Australians start to learn and add cryptocurrencies to their portfolios, the concept of earning passive income through interest will entice and draw new customers.  
+Another service that CoinSpot should provide are high-interest crypto accounts. Although it is a relatively recent concept, it is nontheless highy lucrative for long-term holders. Companies such as BlockFi, Coinspot.com and WireX offer compound interest accounts for currencies such as Bitcoin, Litecoin, Ethereum as well as stable coins such as DAI. As more Australians start to learn and add cryptocurrencies to their portfolios, the concept of earning passive income through compound interest will entice and draw new customers.  
 
 
 
