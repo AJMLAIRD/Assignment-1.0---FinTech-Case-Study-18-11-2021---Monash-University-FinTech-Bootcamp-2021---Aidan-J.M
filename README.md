@@ -29,17 +29,21 @@ One major issue within the cryptosphere is the danger of leaving one's digital a
 
 Another significant issue with cryptocurrency exchanges is verification. Most centralised exchanges require users to verify their identity and will be limited to certain investing caps until the verification is complete. Wait times for popular platforms such as Binance can take over 10 days in some cases. However, CoinSpot prides itself by offering users with instant verification and increasing fiat deposit caps. 
 
-Acording to some of the latest statistics, almost a quater of Australians invest and hold cryptocurrencies, particularily bitcoin. A significant ammount of these investors primarily use CoinSpot. 
+Acording to some of the latest statistics, almost a quater of Australians invest and hold cryptocurrencies, particularily bitcoin. A significant ammount of these investors primarily use CoinSpot. When compared to international exchanges, CoinSpot's features appear to be geared towards the long-term investor. One of CoinSpot's competetors, Binance, is primarily a platform for experienced and seasoned crypto traders as it offers advanced charting tools, graphs, shorting and lower exchange fees. CoinSpot is successful in being extremely easy and accessible, while Binance's complicated interface is an indicator of the type of clients that they wish to attract. 
+
+One major product that CoinSpot offers is crypto bundles, where users can easily buy a range of different currencies with one purchase. Some excellent examples are the top 10 coins by market capitalisation, the Bitcoin bundle, the NFT bundle and the eco-friendly green bundle. Buying cryptocurrencies in a bundle allows one to essentially build a diversified portfolio quickly and the purchase fees are reduced compared to buying individual coins or tokens. 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-
-
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+Another great feature of CoinSpot is the ability to swap cryptocurrenices. 
+
+
 
 ## How Crypto has changed
 
-One of the major changes to cryptocurrency in the past decade is surprisingly the phenomenon of Bitcoin and other first generation cryptocurrencies being considered outdated. Bitcoin's original purpose has shifted from being a means to exchange to being a store of value. This is primarily due to the value of Bitcoin accelerating over 120 million percent throughout the last 10 years. 
+One of the major changes to cryptocurrency in the past decade is surprisingly the phenomenon of Bitcoin and other first generation cryptocurrencies being considered outdated. Bitcoin's original purpose has shifted from being a means to exchange to being a store of value. This is primarily due to the value of Bitcoin accelerating over 120 million percent throughout the last 10 years. It is also due to Bitcoin using the highly criticized proof-of-work protocal to validate transactions as most modern cryptocurrencies use proof-of-stake. 
 
 With the conception and creation of the Ethereum network came tokens and the ability for programmers to create their own cryptocurrency projects. Decentalised apps (dapps) and non-fungible tokens (NFTs) are now becoming more widespread, providing access to decentralised wealth creation opportunities. 
 
@@ -62,7 +66,11 @@ CoinSpots impact on the crypto industry in Australia is unmatched. The company h
 
 If I was to join CoinSpot as an advisor. I would suggest they offer crypto staking and interest accounts so that clients can earn more money and rewards by holding and investing in their currencies for a long period of time.
 
+Crypto staking is the process of comitting one's assets to a proof-of-stake blockchain and essentially validating new transactions. The blockchain then rewards these validators with the currency itself. This is far more effective than the proof-of-work system used by older currencies such as Bitcoin and Litecoin which require miners using large amounts of energy to validate new transactions on the blockchain. Ethereum was built using proof-of-work but will transition to proof-of-stake when Ethereum 2.0 is released in 2022. 
 
+Popular international crypto exchanges such as Binance, Coinbase, Kraken and Kucoin offer staking, so in order to maintain competetiveness, it would be highly advised that CoinSpot adopt this for clients. 
+
+The technology required for staking is not dependent on the exchange, but on how the token or coin is programmed, so it would not be a difficult process to employ staking within the exchange. 
 
 
 * Why do you think that offering this product or service would benefit the company?
