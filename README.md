@@ -33,9 +33,7 @@ Acording to some of the latest statistics, almost a quater of Australians invest
 
 One major product that CoinSpot offers is crypto bundles, where users can easily buy a range of different currencies with one purchase. Some excellent examples are the top 10 coins by market capitalisation, the Bitcoin bundle, the NFT bundle and the eco-friendly green bundle. Buying cryptocurrencies in a bundle allows one to essentially build a diversified portfolio quickly and the purchase fees are reduced compared to buying individual coins or tokens. 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+![ERwecrsUcAACoOA](https://user-images.githubusercontent.com/80402302/142373370-2e66c57f-5e26-4bd3-89eb-9ff0f1a615a3.jpeg)
 
 Another great feature of CoinSpot is the ability to swap cryptocurrenices. Peer-to-peer blockchain swapping technology or "atomic swaps' is common in decentralised exchanges such as Uniswap as well as centralised exchanges such as CoinSpot and Coinbase. Atomic swaps gives users the ability to trade any token for another token. On CoinSpot, traders can swap Bitcoin for Ethereum or any of the 300+ listed coins and tokens and vice versa. The technology uses hash functions, which are intracate mathematical encryptions that ensures that the exchange of tokens is confirmed on the blockchain within a certain timeframe and successfully transfered. 
 
