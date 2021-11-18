@@ -51,7 +51,7 @@ Another great feature of CoinSpot is the ability to swap cryptocurrenices. Peer-
 
 ## How Crypto has changed
 
-One of the major changes to cryptocurrency in the past decade is surprisingly the phenomenon of Bitcoin and other first generation cryptocurrencies being considered outdated[^17]. Bitcoin's original purpose has shifted from being a means to exchange to being a store of value[^18]. This is primarily due to the value of Bitcoin accelerating over 120 million percent throughout the last 10 years. It is also due to Bitcoin using the highly criticized proof-of-work protocal to validate transactions as most modern cryptocurrencies use proof-of-stake[^19]. 
+One of the major changes to cryptocurrency in the past decade is surprisingly the phenomenon of Bitcoin and other first generation cryptocurrencies no longer commonly used for transactions but for long-term investments[^17]. Bitcoin's original purpose has shifted from being a means to exchange to being a store of value[^18]. This is primarily due to the value of Bitcoin accelerating over 120 million percent throughout the last 10 years[^19]. 
 
 With the conception and creation of the Ethereum network came tokens and the ability for programmers to create their own cryptocurrency projects[^20]. Decentalised apps (dapps) and non-fungible tokens (NFTs) are now becoming more widespread, providing access to decentralised wealth creation opportunities[^21]. Major financial institutions are now opening their doors to crypto and offering their clients crypto and blockchain products and services[^22]. One such example in Australia is Commonwealth Bank who have recently announced that they will offer Commsec investors to buy and hold cryptocurrencies[^23]. 
 
@@ -87,10 +87,10 @@ Another service that CoinSpot should provide are high-interest crypto accounts. 
 [^14]: Minted Millenials. (2021, November 14). Coinspot Review. Retrieved November 15, 2021, from https://mintedmillennials.com/coinspot-review/#BundlesBundles are predetermined groups of cryptocurrencies, with preset allocations to each coin that you can select to invest in. If you selected the top 3 market cap bundle it contains Bitcoin, Ethereum and Binance. All at pretty much equal weight of 33.33%
 [^15]: Sergeenkov, A. (2021, August 20). A Beginner’s Guide to Atomic Swaps. CoinDesk. Retrieved November 15, 2021, from https://www.coindesk.com/tech/2021/08/20/a-beginners-guide-to-atomic-swaps/“Atomic” is a terminology used to connote processes that would either finalize or would not initiate at all. In other words, an atomic swap comes with functionalities that ensure that two sides of trade fulfill all predefined conditions before the trade can be completed. This is made possible by incorporating smart contracts, which are self-initiating programs that enforce the conditions governing the success of a transaction. 
 [^16]: Ibid.
-[^17]:
-[^18]:
-[^19]:
-[^20]:
+[^17]: Bloomberg. (2021, October 25). Gold or Bitcoin? Store-of-value debate rages as Bitcoin grows. Retrieved November 15, 2021, from https://www.bloomberg.com/tosv2.html?vid=&uuid=90c7b60b-4859-11ec-a03c-4c4d66526c61&url=L3Byb2Zlc3Npb25hbC9ibG9nL2dvbGQtb3ItYml0Y29pbi1zdG9yZS1vZi12YWx1ZS1kZWJhdGUtcmFnZXMtYXMtYml0Y29pbi1ncm93cy8=
+[^18]: Ibid.
+[^19]: Frankel, M. C. (2021, July 22). If You Invested $1,000 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today. The Motley Fool. Retrieved November 15, 2021, from https://www.fool.com/the-ascent/buying-stocks/articles/if-you-invested-1000-in-bitcoin-10-years-ago-heres-how-much-youd-have-today/Bitcoin's rise has certainly been a remarkable one. In only 12 years, this cryptocurrency has gone from having no monetary value to surging above $60,000 for a brief period. And for investors who got in during the early days and have held on, the returns have been absolutely remarkable.
+[^20]: Reiff, N. (2020, September 6). What Is ERC-20 and What Does It Mean for Ethereum? Investopedia. Retrieved November 15, 2021, from https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/Ethereum was launched in 2015, and since then it has become one of the driving forces behind the popularity of cryptocurrency. In the Ethereum system, tokens represent a diverse range of digital assets, such as vouchers, IOUs, or even real-world, tangible objects. Essentially, Ethereum tokens are smart contracts that make use of the Ethereum blockchain.
 [^21]:
 [^22]:
 [^23]:
